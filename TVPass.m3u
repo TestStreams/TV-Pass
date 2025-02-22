@@ -27,3 +27,31 @@ https://tvpass.org/live/BTN/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFe
 https://tvpass.org/live/BravoEast/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="Live",C-SPAN
 https://tvpass.org/live/CSPAN/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="Live",C-SPAN 2
+https://tvpass.org/live/CSPAN2/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network East" group-title="Live",Cartoon Network East
+https://tvpass.org/live/CartoonNetworkEast/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS West" group-title="Live",CBS West
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS East" group-title="Live",CBS East
+https://tvpass.org/live/WCBSDT1/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports" group-title="Live",CBS Sports
+https://tvpass.org/live/CBSSportsNetworkUSA/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="Live",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax East" group-title="Live",Cinemax East
+https://tvpass.org/live/CinemaxEast/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT East" group-title="Live",CMT East
+https://tvpass.org/live/CMTEast/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC" group-title="Live",CNBC
+https://tvpass.org/live/CNBC/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="Live",CNN
+https://tvpass.org/live/CNN/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central" group-title="Live",Comedy Central
+https://tvpass.org/live/ComedyCentralEast/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network" group-title="Live",Crime & Investigation Network
+https://tvpass.org/live/CrimePlusInvestigation/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW San Diego" group-title="Live",CW San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW District of Columbia" group-title="Live",CW District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/YXR4RTlTM0NOZDNpUU0ydXVvWWdaNTFKeFp0TEt1Yk5oZGFFeU9MaQ==
